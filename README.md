@@ -11,6 +11,9 @@ This project is for educational purposes only! I am not responsible for any dama
 ## ToDo
 
 🔲 Get user input for IP address and port for listener
+
 🔲 Build client on top of that
+
 🔲 Implement file transfer
+
 🔲 Port the project to Nim
